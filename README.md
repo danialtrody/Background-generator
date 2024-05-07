@@ -29,8 +29,3 @@ To use the Gradient Background generator:
 
 ![image](https://github.com/danialtrody/Background-generator/assets/141449225/47cc794a-cbdb-42ef-b48e-736d4a5d7e18)
 
-
-## Contribution
-
-Contributions to the project are welcome. If you have any suggestions or improvements, feel free to open an issue or submit a pull request on GitHub.
-
