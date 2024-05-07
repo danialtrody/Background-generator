@@ -24,10 +24,10 @@ To use the Gradient Background generator:
 4. Copy the generated CSS code from the "Current CSS Background" section to use in your project.
 
 ## Screenshots
-![image](https://github.com/danialtrody/Background-generator/assets/141449225/e3a476a0-466c-46d4-ada7-6da6b4b56c0b)
+![image](https://github.com/danialtrody/Background-generator/assets/141449225/a3537868-0763-4f22-9f74-90d49d338a40)
 
 
-![image](https://github.com/danialtrody/Background-generator/assets/141449225/dd4937e2-861b-4644-b508-fede9200aed0)
+![image](https://github.com/danialtrody/Background-generator/assets/141449225/47cc794a-cbdb-42ef-b48e-736d4a5d7e18)
 
 
 ## Contribution
