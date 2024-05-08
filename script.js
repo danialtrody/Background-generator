@@ -1,11 +1,11 @@
-var css = document.querySelector("h3");
-var firstColor = document.querySelector(".firstColor");
-var secondColor = document.querySelector(".secondColor");
-var body = document.body;
+let css = document.querySelector("h3");
+let firstColor = document.querySelector(".firstColor");
+let secondColor = document.querySelector(".secondColor");
+let body = document.body;
 
 function setGradient(){
-    var firstColorValue = firstColor.value;
-    var secondColorValue = secondColor.value;
+    let firstColorValue = firstColor.value;
+    let secondColorValue = secondColor.value;
     
     body.style.background = "linear-gradient(to right, "
     + firstColorValue
